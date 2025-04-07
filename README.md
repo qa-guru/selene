@@ -2,6 +2,7 @@
 
 ### Selene
 
+- [Документация от школы](https://github.com/qa-guru/selene/blob/main/DOC.md)
 - [Официальная документация](https://yashaka.github.io/selene/)
 - [Github](https://github.com/yashaka/selene)
 - [Селениды: Быстрый Старт (Python)](https://autotest.how/selenides-quick-start-docs-md/)
